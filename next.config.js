@@ -1,6 +1,6 @@
 module.exports = {
   reactStrictMode: false,
   images: {
-    domains: ["images.tmdb.org"],
+    domains: ["image.tmdb.org"],
   },
 };
